@@ -59,8 +59,8 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 ---
 
 # defiProtocol 3 contest details
-- TBD main award pot
-- TBD gas optimization award pot
+- $28,500 worth of ETH main award pot
+- $1,500 worth of ETH gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
 - Submit findings [using the C4 form](https://code4rena.com/contests/2021-12-defiprotocol-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
