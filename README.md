@@ -62,7 +62,7 @@ Under "SPONSORS ADD INFO HERE" heading below, include the following:
 - $28,500 worth of ETH main award pot
 - $1,500 worth of ETH gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
-- Submit findings [using the C4 form](https://code4rena.com/contests/2021-12-defiprotocol-contest/submit)
+- Submit findings [using the C4 form](https://code4rena.com/contests/2021-12-defiprotocol-3-contest/submit)
 - [Read our guidelines for more details](https://docs.code4rena.com/roles/wardens)
 - Starts December 8, 2021 00:00 UTC
 - Ends December 10, 2021 23:59 UTC
