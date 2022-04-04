@@ -1,4 +1,4 @@
-# defiProtocol 3 contest details
+# Kuiper contest details
 - $25,500 USDC main award pot
 - $1,500 USDC gas optimization award pot
 - Join [C4 Discord](https://discord.gg/code4rena) to register
